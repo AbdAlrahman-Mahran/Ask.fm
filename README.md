@@ -4,6 +4,6 @@
 - Support for anonymous questions
 - Threaded questions
 ## Files
-_Used files as database
-    _ [users.txt](users.txt)
-    _ [questions.txt](questions.txt)
+- Used files as database
+    - [users.txt](users.txt)
+    - [questions.txt](questions.txt)
